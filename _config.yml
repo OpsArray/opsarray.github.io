@@ -8,11 +8,11 @@ exclude:
 
 # Site settings
 title: OpsArray
-subtitle: "Array of DevOps Tools"
+subtitle: "DevOps Toolkit"
 email: tim@opsarray.com
 name: Tim Mahoney
 description: >
-  A DevOps Toolbox
+  DevOps Toolkit
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://opsarray.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
