@@ -6,7 +6,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: OpsArray
+title: [OpsArray]
 subtitle: "DevOps Toolkit"
 email: tim@opsarray.com
 name: Tim Mahoney
