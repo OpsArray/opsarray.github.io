@@ -5,7 +5,7 @@ date:   2015-10-24 18:04:00
 author: Tim Mahoney
 categories: Development Environment, Vagrant Box, Ansible
 tags:	MySQL, MyDumper
-cover: "assets/bora_bora.png"
+cover: "assets/bora_bora.jpg"
 ---
 
 [MySQL Development Environment Vagrant Box - Provisioned by Ansible](https://github.com/OpsArray/mysql-ansible-vagrant)
