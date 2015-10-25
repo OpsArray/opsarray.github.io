@@ -21,8 +21,8 @@ One of the issues I've had in the past is that development rarely occurs without
 ## Future possibilities
 
 Faker data generators, like the ones below
-- [Faker Ruby Gem](https://github.com/stympy/faker)
-- [Faker PHP Library](https://github.com/fzaninotto/Faker)
-- [Faker NodeJS Library](https://github.com/marak/Faker.js/)
+* [Faker Ruby Gem](https://github.com/stympy/faker)
+* [Faker PHP Library](https://github.com/fzaninotto/Faker)
+* [Faker NodeJS Library](https://github.com/marak/Faker.js/)
 
 Image credit: [Trey Ratcliff](https://www.flickr.com/photos/stuckincustoms/19893916605)
